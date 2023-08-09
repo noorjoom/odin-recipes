@@ -1,18 +1,20 @@
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    color: red;
-    background-color: lightblue;
     text-align: center;
+    text-decoration: underline;
 }
 
-.first {
-    background-color: burlywood;
+#milkshake {
+    width: 400px;
+    height: auto;
 }
 
-.second {
-    font-weight: 500;
-    font-size: 32px;
+.ingredients {
+    border-width: 2px;
+    border-color: red;
+    border-style: dotted;
+    padding: 5px;
 }
